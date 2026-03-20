@@ -10,4 +10,4 @@
 <img width="1352" height="707" alt="absctraction" src="https://github.com/user-attachments/assets/a4261993-168b-44ce-8435-85ff98fc56be" />
 <img width="1348" height="700" alt="crypto" src="https://github.com/user-attachments/assets/7f318019-7e6e-4049-9aaf-7818d112d7d3" />
 
-
+ Powered by <a href="https://mscbuild.github.io/mscbuild/" target="_blank" style="color: #3498db;"> @mscbuild</a><br>
