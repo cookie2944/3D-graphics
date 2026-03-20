@@ -2,6 +2,10 @@
 
 **Captivating web applications using modern technologies, 3D graphics and creative code.**
 
+I envision an elegant, immersive interface where luminous forms dance in the darkness, reflecting the spirit of creative exploration.
+Each section unfolds purposefully—impressive depth, carefully curated showcases, vibrant markers of expertise, and a consistent call to engagement.
+The design pulsates with modern elegance, combining transparency, glow, and movement to tell a story of vision and precision.
+
 ## Screenshots
 
 <img width="1343" height="602" alt="Portfolio" src="https://github.com/user-attachments/assets/a7d0fe07-bb9e-4175-81b7-f151756f752f" />
