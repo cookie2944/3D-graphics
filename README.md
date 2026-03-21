@@ -1,3 +1,7 @@
+[mit]: http://www.opensource.org/licenses/mit-license.php
+[repo]: https://github.com/mscbuild/case-study/
+[demo]: https://mscbuild.github.io/case-study/
+
 # Building Digital Dreams
 
 **Captivating web applications using modern technologies, 3D graphics and creative code.**
@@ -7,6 +11,8 @@ Each section unfolds purposefully—impressive depth, carefully curated showcase
 The design pulsates with modern elegance, combining transparency, glow, and movement to tell a story of vision and precision.
 Each component is designed to respond intuitively to user presence, with fluid animations and a responsive layout that enhances engagement.
 The interface harmonizes sleek navigation with an evolving backdrop of interactive geometry, creating a sense of depth and innovation
+
+##### [Test it out here][demo]
 
 ## Screenshots
 
