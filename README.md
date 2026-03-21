@@ -24,6 +24,4 @@ The interface harmonizes sleek navigation with an evolving backdrop of interacti
 <br>
  Powered by <a href="https://mscbuild.github.io/mscbuild/" target="_blank" style="color: #3498db;"> @mscbuild</a><br>
 
-### License
-
-Licensed under [MIT][mit].
+ 
