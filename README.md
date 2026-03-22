@@ -4,7 +4,7 @@
 
 # 🌐 Building Digital Dreams
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://github.com/mscbuild/3D-graphics/)
-[![Author](https://img.shields.io/badge/Author-Yuri Dew-blue.svg)](https://www.linkedin.com/in/jrck/)
+[![Author](https://img.shields.io/badge/Author-Yuri%20Dew-blue.svg)](https://www.linkedin.com/in/jrck/)
  
 **Captivating web applications using modern technologies, 3D graphics and creative code.**
 
