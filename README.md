@@ -7,7 +7,7 @@
 [![Author](https://img.shields.io/badge/Author-Yuri%20Dev-blue.svg)](https://mscbuild.github.io/)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://mscbuild.github.io/3D-graphics/)
 ![Repo Size](https://img.shields.io/github/repo-size/mscbuild/3D-graphics)
-![Code Style](https://img.shields.io/badge/code%20style-3D-graphics-green)
+![Code Style](https://img.shields.io/badge/code%20style-html-green)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-21%20Mart%202026-yellow.svg)](https://github.com/mscbuild/3D-graphics/)
 
  
