@@ -3,9 +3,9 @@
 [demo]: https://mscbuild.github.io/case-study/
 
 # 🌐 Building Digital Dreams
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://mscbuild.github.io/case-study/)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://mscbuild.github.io/3D-graphics/)
 [![Author](https://img.shields.io/badge/Author-Yuri%20Dev-blue.svg)](https://mscbuild.github.io/)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://mscbuild.github.io/case-study/)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://mscbuild.github.io/3D-graphics/)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-21%20Mart%202026-yellow.svg)](https://github.com/mscbuild/3D-graphics/)
 
  
