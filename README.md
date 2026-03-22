@@ -25,13 +25,98 @@ The interface harmonizes sleek navigation with an evolving backdrop of interacti
 
 ## Technologies Used:
 
-- HTML, CSS, Bootstrap, JavaScript
-- JavaScript Graphics: particles.js, WOW
-- JavaScript libraries: Slick, jQuery, core-js 
-- AOS Library (for cool fade effects)
-- Fonts: Google Font API, Font Awesome
-- CDN: Cloudflare, jQuery, cdnjs, Fastly
-- Protected with strong security headers
+# 🎨 Frontend Core
+**HTML5**
+- Semantic structure for accessibility and SEO
+**CSS3**
+- Custom properties (CSS variables)
+- Flexbox & Grid layouts
+- Responsive design with media queries
+- Glassmorphism + neon visual effects
+# ⚡ JavaScript (ES6+)
+- DOM manipulation
+- Event handling
+- Animations & UI interactions
+- Form handling logic
+# 🧊 Three.js (WebGL)
+- 3D rendering engine for background animation
+**Features used:**
+- Scene, Camera, Renderer
+- Mesh (Icosahedron geometry)
+- Particle system (BufferGeometry)
+- Fog effects
+- Mouse-based parallax interaction
+# 🔤 Typography
+- Google Fonts: Space Grotesk
+- Modern, geometric, tech-oriented aesthetic
+
+# 🎯 Key Features
+**1. 🧠 Interactive 3D Background**
+- Built using Three.js
+- Rotating wireframe icosahedron
+- Animated particle field
+- Mouse-based parallax movement
+- Fog for depth perception
+
+# 2. 🎨 Modern UI Design
+- Neon gradients (purple, cyan, pink)
+- Glassmorphism cards
+- Smooth hover animations
+- Gradient text effects
+
+# 3. 📱 Fully Responsive Layout
+- Desktop-first design
+- Mobile adjustments:
+- Smaller typography
+- Hidden navigation links
+- Centered hero content
+
+# 4. 🧩 Component-Based Sections
+**🔹 Navigation**
+- Fixed navbar
+- Scroll-based blur effect
+- Smooth anchor navigation
+**🔹 Hero Section**
+- Main branding message
+- Call-to-action buttons
+- 3D animated background
+**🔹 Tech Stack**
+- Tag-style display of technologies
+- Hover glow interactions
+**🔹 Projects Grid**
+- Card-based layout
+- Image zoom on hover
+- Project descriptions + links
+**🔹 Footer**
+- Minimal copyright
+
+# Design System
+
+| Variable        | Value   | Usage      |
+| --------------- | ------- | ---------- |
+| `--bg-color`    | #050505 | Background |
+| `--neon-purple` | #b026ff | Accents    |
+| `--neon-cyan`   | #00f3ff | Highlights |
+| `--neon-pink`   | #ff0055 | Gradients  |
+
+# UI Patterns
+- **Glassmorphism**
+- Transparent backgrounds
+- Soft borders
+- **Neon Glow Effects**
+- Box shadows
+- Text shadows
+- **Gradient Highlights**
+- Text & buttons
+
+# Summary
+
+**This portfolio demonstrates:**
+
+- Strong frontend fundamentals
+- Creative use of WebGL & Three.js
+- Modern UI/UX design trends
+- Clean, modular JavaScript architecture
 
  
  Powered by <a href="https://mscbuild.github.io/mscbuild/" target="_blank" style="color: #3498db;"> @mscbuild</a><br>
