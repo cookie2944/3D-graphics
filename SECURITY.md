@@ -34,13 +34,14 @@ If you are running a version listed as End of Life, you should upgrade immediate
 Severity determines remediation priority and disclosure timing.
 
 ---
-## Security Considerations for 3D Graphics
+## Specific Security Risks for WebGL Engines
 
-As a graphics engine, this project is particularly sensitive to the following risks:
-*   **Buffer Overflows**: Standard risks in C++ development, especially during memory-intensive rendering tasks.
-*   **Malicious Assets**: Loading untrusted `.obj`, `.gltf`, or other 3D model files can lead to arbitrary code execution if the parser is not secure.
-*   **Shader Vulnerabilities**: Exploits targeting GPU drivers through maliciously crafted shader code.
-*   **Denial of Service (DoS)**: Assets designed to crash the renderer or hang the GPU.
+As a web-based 3D background engine, we prioritize protection against:
+
+*   **GPU Resource Exhaustion (DoS)**: Shaders or geometries designed to freeze the user's browser or crash the GPU driver (Context Loss).
+*   **Cross-Site Scripting (XSS)**: Malicious code injected through dynamic textures, object names, or configuration JSONs.
+*   **Shader Logic Flaws**: Exploits in custom GLSL code that might bypass browser sandboxing.
+*   **Dependency Vulnerabilities**: Security flaws in `three.js` or its loaders (GLTFLoader, etc.).
 
 ---
 ## Reporting a Vulnerability
@@ -75,5 +76,7 @@ Please include as much of the information listed below as you can to help us bet
 
 **Once the fix is ready, it will be merged back into the original repository and a release will be generated. The private security advisory will also be published (i.e. made public) so that package users can be notified in a timely manner.**
 
-## Security Best Practices
-We recommend all contributors use [Static Application Security Testing (SAST)](https://github.com/JupiterOne/security-policy-templates/blob/main/summary.md) tools and memory sanitizers (like AddressSanitizer) when testing new rendering features.
+## Security Best Practices for Users
+*   **Sanitize Inputs**: If you allow users to change colors or text in the 3D scene, ensure inputs are sanitized to prevent XSS.
+*   **Content Security Policy (CSP)**: We recommend using a strict CSP to prevent unauthorized scripts from interacting with the WebGL context.
+*   **Update Dependencies**: Run `npm audit` regularly to ensure `three` and other packages are up to date.
